@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# dotenv environment files
+.env
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+
+# coverage reports
+coverage/
+
+# database (if SQLite used)
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal

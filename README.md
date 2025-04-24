@@ -45,3 +45,9 @@ http://localhost:3000
 ```bash
 npm run seed
 ```
+
+---
+
+### ER Diagram
+
+![ER_Diagram](https://github.com/user-attachments/assets/2b4c2c82-5589-402c-8bc0-7738b590b310)
